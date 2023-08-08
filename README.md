@@ -1,2 +1,2 @@
-#ML Project with deployment
+#ML Project with deployment on AWS Elastic Beanstalk
 
